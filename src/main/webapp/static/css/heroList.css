@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    padding: 0;
+    width: 60%;
+    margin: 100px auto;
+}
+.title{
+    margin: 0;
+    width: 100%;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.heroList{
+    display: flex;
+    flex-wrap: wrap;
+}
+.heroItem{
+    width: 80px;
+    margin: 5px;
+    flex-wrap: wrap;
+    text-align: center;
+    font-size: 14px;
+}
+.heroItem img{
+    width: 66px;
+}
+a {
+    text-decoration: none;
+    color: rgb(102, 102, 102);
+}
+a:hover{
+    color: #59b5ac;
+}
+.pageDiv{
+    margin: 0 auto;
+    width: 500px;
+    background-color: #59b5ac;
+    text-align: center;
+}
+.pagination{
+    margin: 0 auto;
+}
