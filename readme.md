@@ -16,6 +16,8 @@
 
 </div>
 
+> 基于JavaWeb的英雄联盟管理系统，数据源自官网，内附有爬虫代码，可爬取最新数据。
+
 ## 一. Star曲线
 
 [![Stargazers over time](https://starchart.cc/shaoxiongdu/books.svg)](https://github.com/shaoxiongdu/lol)
